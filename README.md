@@ -1,4 +1,4 @@
-
+![alt text](https://spector.net/favicon.ico)
 ## 🚀 About Spector
 
 **Spector** is a fast and lightweight web tool that allows you to download content from Instagram — Reels, Stories, Videos, Photos, and Highlights — with original quality, without installing applications, extensions, or exposing your login credentials.
